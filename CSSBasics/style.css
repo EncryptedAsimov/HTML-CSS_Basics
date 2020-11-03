@@ -1,0 +1,43 @@
+/*selector{
+     property: value;
+}*/
+
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+h2{
+    color: white;
+}
+
+p{
+    color: white;
+    text-align: center;
+    border: 5px solid rgba(126,170,255,1);
+    cursor: pointer;
+}
+
+p{
+    line-height: 30px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 100%;
+    font-family: Trispace, cursive;
+}
+
+img{
+    float: left;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+    cursor: pointer;
+    color: white;
+}
